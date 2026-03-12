@@ -30,8 +30,5 @@ A CLI tool focusing on **Dynamic Memory Management** and **File I/O** in C.
 - Managing a **Raspberry Pi 4** for data logging and remote server management via SSH.
 - Developed Python scripts for automated system monitoring and external storage (HDD) management.
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KtoxTheNisa&show_icons=true&theme=radical)
-
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/nisanur-%C3%A7-7410a4330/) | [Email](mailto:nisanurcelebi28@gmail.com)
