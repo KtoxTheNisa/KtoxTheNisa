@@ -12,7 +12,7 @@ I am a **2nd-year Computer Engineering Student** passionate about building scala
 - **Languages:** Python, Java, C, SQL. Currently learning C++.
 - **Frameworks & Tools:** Discord.py, Quart (Flask-based Async), JavaFX, Maven, Git
 - **Databases:** SQLite, Aiosqlite
-- **DevOps:** Linux (Ubuntu/Debian), SSH, Home Lab Management, Basic Containerization
+- **DevOps:** Linux (Ubuntu/Debian), SSH, Home Lab Management
 
 ## 🌟 Featured Projects
 
