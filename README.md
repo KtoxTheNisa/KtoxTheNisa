@@ -1,34 +1,37 @@
-# Hi there, I'm Nisanur Çelebi 👋
+# Nisanur Çelebi
 
-I am a **2nd-year Computer Engineering Student** passionate about building scalable backend systems, exploring DevOps practices, and managing my own home lab.
+> [!NOTE]
+> Computer Engineering student focusing on Python, Linux environments, and lightweight network tooling. Currently building practical scripts and background services on WSL and a Raspberry Pi.
 
-## 🚀 About Me
-- 🎓 Studying Computer Engineering.
-- 🛠️ Currently focusing on **DevOps** and **Python**.
-- 🐧 Linux enthusiast, managing a personal **Home Lab** with Ubuntu Server and Raspberry Pi 4.
-- ⚡ I love automating tasks with Python and Powershell.
+### Stack & Environment
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 🛠️ Tech Stack
-- **Languages:** Python, Java, C, SQL. Currently learning C++.
-- **Frameworks & Tools:** Discord.py, Quart (Flask-based Async), JavaFX, Maven, Git
-- **Databases:** SQLite, Aiosqlite
-- **DevOps:** Linux (Ubuntu/Debian), SSH, Home Lab Management
+---
 
-## 🌟 Featured Projects
+### Projects
 
-### [Discord Bot & Web Dashboard PRO]([Link])
-A full-stack asynchronous system with a modular command structure, integrated web dashboard (Quart), and unit testing suite.
+#### [Async Discord Bot & Web Dashboard](https://github.com/KtoxTheNisa/DiscordBot)
+An asynchronous Discord bot paired with a lightweight web management interface.
+- Built using **Quart** and **Discord.py** with async SQLite (**aiosqlite**) for non-blocking I/O.
+- Modular command handling with web-based service controls.
 
-### [Hospital Appointment System]([Link])
-A desktop application built with **JavaFX** and **SQLite**, implementing the **Factory Design Pattern** for modular user management.
+#### [Hospital Appointment System](https://github.com/KtoxTheNisa/hospital-system)
+Desktop booking system built with **Java, JavaFX, and SQLite** (Maven). 
+- Implements design patterns for structured role and appointment management.
 
-### [Library Management System]([Link])
-A CLI tool focusing on **Dynamic Memory Management** and **File I/O** in C.
+#### [Network & Home Lab Utilities]
+Scripts and network configurations running on a local **Raspberry Pi 4 (Debian)**:
+- Local gateway routing and Zapret configuration for network traffic management.
+- Headless system monitoring and lightweight automation tasks.
 
-## 🏠 Home Lab Experiments
-- Running a headless **Ubuntu Server** for local automation tasks.
-- Managing a **Raspberry Pi 4** for data logging and remote server management via SSH.
-- Developed Python scripts for automated system monitoring and external storage (HDD) management.
+---
 
-## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/nisanur-%C3%A7-7410a4330/) | [Email](mailto:nisanurcelebi28@gmail.com)
+### Current Focus
+```diff
++ Building: Minecraft chunk delta-sync daemon for RPi
+! Planning: Zimbra IMAP mail filter & webhook notifier
